@@ -1,0 +1,10 @@
+#updated version
+
+# Introduction #
+
+tadd\_labels has been updated to version 0.8.1
+
+
+# Details #
+
+It only gets **.**.1 because I only changed one line. Instead of using the jQuery .html() it now uses the jQuery .text() so as to prevent "accidentally" javascript injecting yourself.

@@ -1,0 +1,12 @@
+# Introduction #
+
+tadd-labels has been updated with several fixes and is now considered the first **real** version. a better wiki will be provided soon.
+
+Version 1.0 is here: http://rutorrent-tadd-labels.googlecode.com/files/tadd-labels_1.0.tar.gz
+
+# Details #
+
+-Added a blank option for not using labels
+-Added Language support
+-Added fixed sizes for the UI so as to prevent a new line.
+-Default text now empties on focus, and returns when the box is left empty or a new label is added.

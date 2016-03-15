@@ -1,0 +1,7 @@
+# Introduction #
+
+Upgraded to version 1.1.
+
+# Details #
+
+Fixed the vertical alignment of the addtorrent form's labels.
